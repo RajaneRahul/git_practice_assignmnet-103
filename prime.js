@@ -5,7 +5,7 @@ function identifyPrime(num) {
             count++;
         }
     }
-    if(count==0){
+    if(count==2){
         console.log("Yes")
     }else{
         console.log("No")
